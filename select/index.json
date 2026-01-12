@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "八芒星ダンス",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2026-01-12T09:40:58.003030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "八芒星ダンス",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/01_八芒星ダンス_Ave_Mujica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "八芒星ダンス",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_八芒星ダンス_Ave_Mujica.txt"
+    }
+  ]
+}
